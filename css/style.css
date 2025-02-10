@@ -138,6 +138,11 @@ img {
   height: 29px;
 }
 
+.menu__profile_image {
+  width: 29px;
+  height: 29px;
+}
+
 .header__menu_cart {
   width: 41px;
   height: 37px;
